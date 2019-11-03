@@ -1,2 +1,2 @@
 # demoNodeJSPassprt
-demo log in using passport
+demo login using passport
